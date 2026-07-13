@@ -37,5 +37,17 @@ o    There is a complete disconnect between each category’s profit margin and 
 •    Implement a standardized discount matrix: Establish an automated discount system that follows strict strategic criteria based on purchase volume, sales value, and the specific profit margin for each product and/or category.
 •    Audit and align sales incentives: Continuously monitor the discounts applied by the sales force and restructure the incentive scheme, ensuring that commissions are directly proportional to sales volume and that excessive discounts are subject to contractual penalties.
 
-**Recurso Complementario: Acceso al Archivo de Datos en Excel**
-En el repositorio se encuentra alojado el archivo Excel con el sustento de las conclusiones y recomendaciones presentadas en este README.
+## DASHBOARD OVERVIEW
+
+The project includes an Excel dashboard summarizing the key pricing and profitability metrics obtained from the SQL analysis.
+
+Main dashboard features include:
+
+- Sales KPIs
+- Discount KPIs
+- Monthly Discount Trends
+- Top Customers by Discount
+- Top Sales Representatives by Discount
+- Policy Compliance Indicators
+
+<img width="870" height="411" alt="image" src="https://github.com/user-attachments/assets/5316efb6-6cf7-4161-a076-9e9cbe69a16a" />
