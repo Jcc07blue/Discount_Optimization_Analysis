@@ -39,7 +39,7 @@ o    There is a complete disconnect between each category’s profit margin and 
 
 ## DASHBOARD OVERVIEW
 
-The project includes an Excel dashboard summarizing the key pricing and profitability metrics obtained from the SQL analysis.
+THe project includes an Excel dashboard summarizing the key pricing and profitability metrics obtained from the SQL analysis.
 
 Main dashboard features include:
 
